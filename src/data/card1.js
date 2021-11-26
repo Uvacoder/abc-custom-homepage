@@ -10,7 +10,7 @@ export const cards = [
     Youtube Studio
   </a>,
 
-  <a href="https://www.github.com" target="">
+  <a href="https://www.github.com/uvacoder" target="">
     Github
   </a>,
 
